@@ -6,6 +6,6 @@ Danh sách các thư viện phổ biến, được dùng nhiều trong lập tr�
 
 Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
 
-| Name            | Description                                                 |  
-| ----            | ------------                                                |
+| Tên            | Mô tả |Ưu điểm  |Nhược điểm | Thư viện khác tương tự                                                 |  
+| ----            | ------------      | ------------  | ------------  | ------------                                            |
 | [Retrofit](http://square.github.io/retrofit/) | A type-safe REST client for Android which intelligently maps an API into a client interface using annotations.            |
