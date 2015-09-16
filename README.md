@@ -18,3 +18,20 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
 |[EventBus](https://github.com/greenrobot/EventBus)| Thư viện hỗ trợ giao tiếp giữa Activity, Fragment, Service, Thred... (MesageBus)| Đơn giản, rất dễ sử dụng.|  | |
 | [Material Design](https://github.com/rey5137/material)| Material Design|Đầy đủ nhất. Đã kiểm chứng trên API > 15| | |
 
+
+### Networking
+
+
+### ListView
+
+
+### RecyclerView
+
+
+### Easy Navigation 
+
+
+### UI Components
+
+
+### Scanning
