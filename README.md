@@ -18,6 +18,7 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
 |[EventBus](https://github.com/greenrobot/EventBus)| Thư viện hỗ trợ giao tiếp giữa Activity, Fragment, Service, Thred... (MesageBus)| Đơn giản, rất dễ sử dụng.|  | |
 | [Material Design](https://github.com/rey5137/material)| Material Design|Đầy đủ nhất. Đã kiểm chứng trên API > 15| | |
 | [Number Picker](https://github.com/SimonVT/android-numberpicker)|Number Picker | | | |
+| [Guava](https://github.com/google/guava)|Thư viện google phát triển, làm việc với collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O...| | | |
 
 
 ### Networking
