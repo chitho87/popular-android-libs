@@ -43,7 +43,7 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
  * [EventBus](https://github.com/greenrobot/EventBus) - Làm việc với event bus (giao tiếp qua lại giữa các thành phần của android).
  * [Tape](http://square.github.io/tape/) - Tape is a collection of queue-related classes for Android and Java
  * [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM
- * [Priority JobQueue](https://github.com/path/android-priority-jobqueue) - Các tác vụ liên quan đến bacground Task
+ * [Priority JobQueue](https://github.com/path/android-priority-jobqueue) - Các tác vụ liên quan đến background Task
  * [ACRA](http://acra.ch/) - Crash reporting made easy and free. Check the [setup instructions](https://github.com/ACRA/acra/wiki/BasicSetup) and [open-source backend](https://github.com/ACRA/acralyzer).
 
 ### Networking
@@ -60,16 +60,16 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
 
 ### ListView
 
- * [EasyListViewAdapters](https://github.com/birajpatel/EasyListViewAdapters) - Building multi-row-type listview made much cleaner & easier.
- * [GridListViewAdapters](https://github.com/birajpatel/GridListViewAdapters) - Easily build unlimited Grid cards list like play-store. (ListView working as unlimited GridView)
- * [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders) - An android library for section headers that stick to the top of a ListView
+ * [EasyListViewAdapters](https://github.com/birajpatel/EasyListViewAdapters) - Dễ dàng với ListView có nội dung các item khác nhau.
+ * [GridListViewAdapters](https://github.com/birajpatel/GridListViewAdapters) - ListView có nội dung kiểu Grid cards kiểu googleplay (ListView làm việc dưới dạng như GridView)
+ * [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders) - Sticker header cho ListView (Xem hiển màn hình chat của skype: Nội dung chat phân theo ngày)
  * [PinnedListView](https://github.com/beworker/pinned-section-listview) - Pinned Section with ListView
  * [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) - Easy way to animate ListView items
- * [EtsyStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Staggered GridView
+ * [EtsyStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) -  GridView có nội dung đặt so-le
  * [Cardslib](https://github.com/gabrielemariotti/cardslib) - Card UI for Lists or Grids
- * [SwipeListView](https://github.com/47deg/android-swipelistview) - Swipeable List
- * [PullToRefresh-ListView](https://github.com/erikwt/PullToRefresh-ListView) - Easy to use pull-to-refresh functionality for ListViews. [Download](https://github.com/erikwt/PullToRefresh-ListView/archive/master.zip) and install as a [library project](http://imgur.com/a/N8baF).
- * [QuickReturn](https://github.com/lawloretienne/QuickReturn) - Reveal or hide a header or footer as the list is scrolled in a direction.
+ * [SwipeListView](https://github.com/47deg/android-swipelistview) -  ListView hỗ trợ vuốt
+ * [PullToRefresh-ListView](https://github.com/erikwt/PullToRefresh-ListView) -Kéo- thả để cập nhật dữ liệu  [Download](https://github.com/erikwt/PullToRefresh-ListView/archive/master.zip) and install as a [library project](http://imgur.com/a/N8baF).
+ * [QuickReturn](https://github.com/lawloretienne/QuickReturn) - ẩn/hiện header hay footer as khi  list is cuộn lên hoặc cuộn xuống.
 
 ### RecyclerView
 
@@ -78,33 +78,33 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
 
 ### Easy Navigation 
 
- * [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager.
-   * [jpardogo/PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) - This fork of the original is actively maintained and has support for a material design look.
- * [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. 
- * [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - Pager with more animations
+ * [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - Làm tab cho Viewpager (giống tab của Googleplay)
+   * [jpardogo/PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) - Như thư viện trên
+ * [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - View hiện thị phân trang cho  ViewPager làm từ Android Support Library và ActionBarSherlock. 
+ * [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - Pager hỗ trợ animation
  * [ParallaxPager](https://github.com/prolificinteractive/ParallaxPager) - ViewPager with Parallax scrolling effects
  * [ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager) - Another ViewPager with Parallax scrolling effects
  * [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) - A pager transformer for Android with parallax effect
- * [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps.
- * [Android Satellite Menu](https://github.com/siyamed/android-satellite-menu/) - Radial menu which is configurable reminiscent of the "Path" menu style.
- * [ArcMenu](https://github.com/daCapricorn/ArcMenu) - Alternate radial menu modeled after the "Path" menu style.
- * [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) - Sliding Up Panel 
+ * [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - tạo sliding menus kiểu Google+, YouTube, and Facebook apps.
+ * [Android Satellite Menu](https://github.com/siyamed/android-satellite-menu/) - Menu dạng vòng tròn
+ * [ArcMenu](https://github.com/daCapricorn/ArcMenu) - Menu dạng vòng tròn
+ * [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) - Sliding Up Panel (List kéo lên thì ẩn header)
  * [DraggablePanel](https://github.com/pedrovgs/DraggablePanel) - Panels that can be dragged
 
 ### UI Components
 
- * [Crouton](https://github.com/keyboardsurfer/Crouton) - Context-sensitive, configurable alert notices much better than toasts. Download jar [from here](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22de.keyboardsurfer.android.widget%22). See [working sample code](https://github.com/codepath/android-crouton-sample)
- * [BetterPickers](https://github.com/derekbrameyer/android-betterpickers) - BetterPickers for easy input selection
- * [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) - Easily round corners or create oval-shaped images with this popular library.
- * [Android StackBlur](https://github.com/kikoso/android-stackblur) - Dynamically blur images
+ * [Crouton](https://github.com/keyboardsurfer/Crouton) - Làm việc với alert notices thay thế Toast. Download jar [from here](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22de.keyboardsurfer.android.widget%22). See [working sample code](https://github.com/codepath/android-crouton-sample)
+ * [BetterPickers](https://github.com/derekbrameyer/android-betterpickers) - Dùng picker để chọn dữ liệu nhập
+ * [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) -Bo tròn (ô van) ảnh.
+ * [Android StackBlur](https://github.com/kikoso/android-stackblur) - Xử lý blur ảnh.
  * [Android Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap UI widgets
- * [PhotoView](https://github.com/chrisbanes/PhotoView) - ImageView that supports touch gestures
- * [ShowcaseView](https://github.com/amlcurran/ShowcaseView) - Highlight the best bits of your app
- * [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Cool actionbar fade effect
- * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Easily apply common animations
- * [ProgressWheel](https://github.com/Todd-Davies/ProgressWheel) - Better progress bar
- * [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) - Horizontal indeterminate progress
- * [Rebound](http://facebook.github.io/rebound/) - Easy spring dynamics
+ * [PhotoView](https://github.com/chrisbanes/PhotoView) - ImageView hỗ trợ thao tác chạm, zoom...
+ * [ShowcaseView](https://github.com/amlcurran/ShowcaseView) - Hiệu ứng cho view khi action
+ * [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Hiệu ứng mờ actionbar
+ * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - animations cho view
+ * [ProgressWheel](https://github.com/Todd-Davies/ProgressWheel) - Progress bar dạng vòng tròn
+ * [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) - Progress bar ngang, vô tận
+ * [Rebound](http://facebook.github.io/rebound/) - Tạo animation nẩy (lò xò)
  * [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) - Animated image transitions
  * [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) - Material design floating buttons made easy
  * [Foursquare-CollectionPicker](https://github.com/anton46/Foursquare-CollectionPicker) - Item Picker which looks like Foursquare Tastes picker
