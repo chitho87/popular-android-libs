@@ -69,7 +69,7 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
  * [Cardslib](https://github.com/gabrielemariotti/cardslib) - Card UI for Lists or Grids
  * [SwipeListView](https://github.com/47deg/android-swipelistview) -  ListView hỗ trợ vuốt
  * [PullToRefresh-ListView](https://github.com/erikwt/PullToRefresh-ListView) -Kéo- thả để cập nhật dữ liệu  [Download](https://github.com/erikwt/PullToRefresh-ListView/archive/master.zip) and install as a [library project](http://imgur.com/a/N8baF).
- * [QuickReturn](https://github.com/lawloretienne/QuickReturn) - ẩn/hiện header hay footer as khi  list is cuộn lên hoặc cuộn xuống.
+ * [QuickReturn](https://github.com/lawloretienne/QuickReturn) - Ẩn/hiện header hay footer as khi  list is cuộn lên hoặc cuộn xuống.
 
 ### RecyclerView
 
@@ -116,8 +116,8 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
 ### Drawing
 
  * [Leonids](https://github.com/plattysoft/Leonids) - Simple and easy particle effects ([See Tutorial](http://www.plattysoft.com/2014/05/30/leonids-particle-system-lib/))
- * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library
- * [AChartEngine](http://jaxenter.com/effort-free-graphs-on-android-with-achartengine-46199.html) - This is a charting software library for Android applications
+ * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - Làm việc với đồ thị, biểu đồ
+ * [AChartEngine](http://jaxenter.com/effort-free-graphs-on-android-with-achartengine-46199.html)  - Làm việc với đồ thị
  * [HoloGraphLibrary](https://github.com/Androguide/HoloGraphLibrary) - Newer graphing library
  * [EazeGraph](https://github.com/blackfizz/EazeGraph) - Another newer library with potential
  * [AndroidCharts](https://github.com/dacer/AndroidCharts) - Easy to use charts
@@ -129,12 +129,12 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
 
 ### Scanning
 
- * [ZXing](https://github.com/zxing/zxing) - Barcode or QR scanner
+ * [ZXing](https://github.com/zxing/zxing) - Quét mã vạch Barcode hoặc QR 
  * [barcodescanner](https://github.com/dm77/barcodescanner) - Newer alternative
  * [zxscanlib](https://github.com/LivotovLabs/zxscanlib) - ZXing alternative
  * [android-quick-response-code](https://code.google.com/p/android-quick-response-code/) - Another alternative
 
-### Persistence
+### Database 
 
  * [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
  * [greenDAO](https://github.com/greenrobot/greenDAO)
@@ -156,9 +156,9 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
 
 ### Scrolling and Parallax
 
-This is a list of popular scrolling and parallax libraries:
+Những thư viện phổ biến về Scrolling và Parallax :
 
-* [QuickReturn](https://github.com/lawloretienne/QuickReturn) - Reveal or hide a header or footer as the list is scrolled in a direction.
+* [QuickReturn](https://github.com/lawloretienne/QuickReturn) -  Ẩn/hiện header hay footer as khi  list is cuộn lên hoặc cuộn xuống.
 * [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) - A pager transformer for Android with parallax effect
 * [ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager) - Another ViewPager with Parallax scrolling effects
 * [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
@@ -166,9 +166,9 @@ This is a list of popular scrolling and parallax libraries:
 * [ParallaxPager](https://github.com/prolificinteractive/ParallaxPager) - ViewPager with Parallax scrolling effects
 * [android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview) - An adapter which could be used to achieve a parallax effect on RecyclerView.
  
-## Resources
+## Tài nguyên khác
 
-Check out the following resources for finding libraries:
+Tham khảo những trang khác:
 
  * [Android Elementals](https://github.com/cesards/AndroidElementals)
  * [Wasabeef Core Libraries](https://github.com/wasabeef/awesome-android-libraries)
@@ -179,7 +179,7 @@ Check out the following resources for finding libraries:
  * <http://androidweekly.net/toolbox>
  * <http://android-arsenal.com>
 
-## References
+## Tham khảo
 
  * <http://www.vogella.com/tutorials/AndroidUsefulLibraries/article.html>
  * <http://actionbarsherlock.com/>
