@@ -22,41 +22,41 @@ Danh sách các thư viện phổ biến và được sử dụng rộng rãi.
 
 
 
-### Convenience
+### Tiện ích
 
- * [Dagger](http://square.github.io/dagger/) - A fast dependency injector for Android and Java.  See this [video intro](http://www.infoq.com/presentations/Dagger) from Square.
- * [AutoParcel](https://github.com/frankiesardo/auto-parcel) - Port of Google AutoValue for Android with Parcelable generation goodies.
- * [Hugo](https://github.com/JakeWharton/hugo) - Easier logging within your app
- * [Logger](https://github.com/orhanobut/logger) - Much cleaner and easier logcat trace messages
- * [Trikita Log](https://github.com/zserge/log) - Tiny logger backwards compatible with android.util.Log, but supporting format strings, comma-separated values, non-android JVMs, optional tags etc
- * [LeakCanary](https://github.com/square/leakcanary) - Easily catch memory leaks as they occur
- * [AndroidAnnotations](https://github.com/excilys/androidannotations) - Framework that speeds up Android development. It takes care of the plumbing, and lets you concentrate on what's really important. By simplifying your code, it facilitates its maintenance
+ * [Dagger](http://square.github.io/dagger/) - Thư viện hỗ trợ dependency injector cho android và java. [video intro](http://www.infoq.com/presentations/Dagger).
+ * [AutoParcel](https://github.com/frankiesardo/auto-parcel) - Hỗ trợ làm việc với Parcelable.
+ * [Hugo](https://github.com/JakeWharton/hugo) - Các tiện ích về Log
+ * [Logger](https://github.com/orhanobut/logger) - Các tiện ích về Log
+ * [Trikita Log](https://github.com/zserge/log) - Các tiện ích về Log tương thích với android.util.Log, thêm hộ trợ  format strings, comma-separated values, non-android JVMs, tùy chỉnh tag...
+ * [LeakCanary](https://github.com/square/leakcanary) - Theo dõi memory leaks
+ * [AndroidAnnotations](https://github.com/excilys/androidannotations) - Làm việc với animation android.
  * [RoboGuice](https://github.com/roboguice/roboguice) - Powerful extensions to Android using dependency injection.
- * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts made easy
+ * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Làm việc với custom font
  * [EasyFonts](https://github.com/vsvankhede/easyfonts) - Easy preloaded custom fonts in your app
- * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Common property animations made easy
- * [SDK Manager Plugin](https://github.com/JakeWharton/sdk-manager-plugin) - Helpful plugin especially for group projects if you're missing an SDK version, haven't downloaded an API version, or your support library is updated.  
+ * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Làm việc với animation android
+ * [SDK Manager Plugin](https://github.com/JakeWharton/sdk-manager-plugin) - Plugin hỗ trợ Android SDK (hữu dụng trong trường hợp có 1 nhóm project nếu chưa tải SDK version, hoặc support libraries chưa cập nhật....)
 
 ### Extensions 
 
- * [Otto](https://github.com/square/otto) - An enhanced Guava-based event bus with emphasis on Android support
- * [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between components.
+ * [Otto](https://github.com/square/otto) - Cải tiến từ Guava-based tập trung vào event bus.
+ * [EventBus](https://github.com/greenrobot/EventBus) - Làm việc với event bus (giao tiếp qua lại giữa các thành phần của android).
  * [Tape](http://square.github.io/tape/) - Tape is a collection of queue-related classes for Android and Java
  * [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM
- * [Priority JobQueue](https://github.com/path/android-priority-jobqueue) - Easier background tasks
+ * [Priority JobQueue](https://github.com/path/android-priority-jobqueue) - Các tác vụ liên quan đến bacground Task
  * [ACRA](http://acra.ch/) - Crash reporting made easy and free. Check the [setup instructions](https://github.com/ACRA/acra/wiki/BasicSetup) and [open-source backend](https://github.com/ACRA/acralyzer).
 
 ### Networking
 
- * [Retrofit](http://square.github.io/retrofit/) - A type-safe REST client for Android and Java which intelligently maps an API into a client interface using annotations. 
- * [Picasso](http://square.github.io/picasso/) - A powerful image downloading and caching library for Android.
- * [Ion](https://github.com/koush/ion) - Powerful asynchronous networking library. [Download](https://github.com/koush/ion#get-ion) as a jar here.
- * [Android Async HTTP](http://loopj.com/android-async-http/) - Asynchronous networking client for loading remote content such as JSON.
- * [Volley](http://developer.android.com/training/volley/index.html) - Google's HTTP library that makes networking for Android apps easier and most importantly, faster.
- * [OkHttp](http://square.github.io/okhttp/) - Square's underlying networking library with support for asynchronous requests.
- * [Glide](https://github.com/bumptech/glide) - Picasso image loading alternative endorsed by Google 
- * [IceNet] (https://github.com/anton46/IceNet) -  Android networking wrapper consisting of a combination of Volley, OkHttp and Gson
- * [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Popular alternative for image loading that can replace Picasso or Glide.
+ * [Retrofit](http://square.github.io/retrofit/) - Làm việc với REST client.
+ * [Picasso](http://square.github.io/picasso/) - Google : Thư viện làm việc với ảnh (download, caching...)
+ * [Ion](https://github.com/koush/ion) -Các tác vụ networking bất đồng bộ. [Download jar](https://github.com/koush/ion#get-ion).
+ * [Android Async HTTP](http://loopj.com/android-async-http/) - Networking bất đồng bộ.
+ * [Volley](http://developer.android.com/training/volley/index.html) - Thư viện Google làm việc với HTTP
+ * [OkHttp](http://square.github.io/okhttp/) - Thư viện Networking hỗ trợ bất đồng bộ request
+ * [Glide](https://github.com/bumptech/glide) - Phát triền từ  [Picasso](http://square.github.io/picasso/) 
+ * [IceNet] (https://github.com/anton46/IceNet) - Tập hợp từ các thư viện networking: Volley, OkHttp and Gson
+ * [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Thư viên làm việc với image, có thể thay thế Glile, Picaso
 
 ### ListView
 
