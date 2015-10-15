@@ -1,6 +1,6 @@
 ## Mô tả
 
-Danh sách các thư viện phổ biến, được dùng nhiều trong lập trình Android kèm theo đánh giá cá nhân của các lập trình viên của VSII.
+Danh sách các thư viện phổ biến, được dùng nhiều trong lập trình Android kèm theo đánh giá cá nhân của các lập trình viên [VSII](http://www.vsi-international.com/).
 
 ### Phổ biến nhất
 
